@@ -31,11 +31,11 @@ _**Tech Stack**_
 
 _**How to Use**_
 1.	Food_Trading_Sales_Prediction.ipynb Notebook:
-o	The Colab notebook contains the entire workflow from data preprocessing to model building and evaluation.
-o	To run it, open the notebook in Google Colab:
-- Click on the notebook file (Food_Trading_Sales_Prediction.ipynb).
-- Choose "Open in Colab" from the GitHub file preview.
-- You can run the cells sequentially to see the steps and results.
+- The Colab notebook contains the entire workflow from data preprocessing to model building and evaluation.
+- To run it, open the notebook in Google Colab:
+1- Click on the notebook file (Food_Trading_Sales_Prediction.ipynb).
+2- Choose "Open in Colab" from the GitHub file preview.
+3- You can run the cells sequentially to see the steps and results.
 
 2.	Food Trading Sales Project Report:
 - The report (Food Trading Sales Project Report.docx) includes: 
