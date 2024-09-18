@@ -2,11 +2,13 @@
 A simple data science project analyzing sales data from a food trading company to predict total product sales using Linear Regression and store classification using K-Nearest Neighbors (KNN). The project involves data cleaning, modelling, and results evaluation. 
 
 _**Problem Statement**_
+
 Predicting total sales and store classification are important for understanding market trends and improving product placement. This project aims to:
 - Predict the total sales of products sold in various stores.
 - Classify which store a product was bought from, based on its features.
 
 _**Dataset**_
+
 The dataset includes 8524 sales records with 14 features from a food trading company
  
 _**Project Workflow**_
